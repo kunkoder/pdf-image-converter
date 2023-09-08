@@ -46,10 +46,8 @@ cd pdf-image-converter
 │   ├── jquery.min.js
 │   └── popper.min.js
 ├── index.php
-└── sw.js
+└── upload.php
 ```
-
->Note: file `sw.js` berisi service worker yang dapat diaktifkan di file `listener.js`.
 
 ## :computer: Menjalankan Aplikasi
 
